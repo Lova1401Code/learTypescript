@@ -1,0 +1,10 @@
+
+# Ignorer les répertoires node_modules et dist
+node_modules/
+dist/
+
+# Ignorer les fichiers de configuration spécifiques à l'environnement
+.env
+
+# Ignorer les fichiers de log
+*.log
